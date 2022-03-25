@@ -3,7 +3,8 @@
 Simple one vs one space shooter game, using pygame 
 
 
-#Reference
+
+## Referanser og linker
 
 https://www.pygame.org/docs/
 
