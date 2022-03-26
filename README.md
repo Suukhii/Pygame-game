@@ -1,4 +1,4 @@
-# Python-Code
+# Python game using Pygame 
 
 Simple one vs one space shooter game, using pygame 
 
